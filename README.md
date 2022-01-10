@@ -6,4 +6,4 @@ I used [Bootstrap](https://getbootstrap.com/) for sytling as well as some person
 
 You can view the final version at [TinDog](https://devcharaf.github.io/TinDog/).
 
-The website is reponsive and changes its shape depending on your ycreen/window size.
+The website is reponsive and changes its shape depending on your screen/window size.
